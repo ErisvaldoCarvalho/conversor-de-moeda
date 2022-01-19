@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="br.com.erisvaldocarvalho.conversor">
+    package="com.example.conversor">
    <application
         android:label="conversor"
         android:icon="@mipmap/ic_launcher">
