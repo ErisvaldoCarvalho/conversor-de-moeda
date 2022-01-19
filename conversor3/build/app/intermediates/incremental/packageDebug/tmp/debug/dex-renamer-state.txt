@@ -1,0 +1,4 @@
+#Mon Nov 29 15:23:49 BRT 2021
+base.0=D\:\\git\\conversor-de-moeda\\conversor3\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
